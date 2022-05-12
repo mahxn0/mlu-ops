@@ -27,6 +27,11 @@ struct deviceName name_list_table[] = {
     {"MLU220", MLUOP_MLU220},
     {"MLU220 SOC", MLUOP_MLU220},
     {"MLU290", MLUOP_MLU290},
+    {"MLU370", MLUOP_MLU370},
+    {"MLU365-D2", MLUOP_MLU370},
+    {"MLUCE3226", MLUOP_CE3226},
+    {"MLU580", MLUOP_MLU590},
+    {"MLU590", MLUOP_MLU590},
     // mluOp not support mlu100 only for error case.
     // {"MLU100", MLUOP_MLU100},
 };
